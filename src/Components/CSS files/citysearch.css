@@ -1,0 +1,21 @@
+.citySearch{
+    margin: 20px 50px;
+    background:linear-gradient( rgb(7, 47, 42),rgb(28, 87, 80));
+    padding: 10px 20px 20px 40px;
+    border-radius: 10px;
+    z-index: 1;
+}
+.citySearch .container{
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+  }
+.citySearch h4{
+  color: white;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  width: 100%;
+  text-align: center;
+}
+.cityDropdown{
+    z-index: 2;
+}

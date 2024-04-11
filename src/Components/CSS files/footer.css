@@ -1,0 +1,8 @@
+.footer{
+    background:linear-gradient( rgb(7, 47, 42),rgb(28, 87, 80));
+    color: white;
+}
+
+.footer i{
+    margin: 10px;
+}
