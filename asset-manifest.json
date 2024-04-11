@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/my-project/static/css/main.4a9a9d2e.css",
+    "main.js": "/my-project/static/js/main.cee79f26.js",
+    "static/js/453.290d0904.chunk.js": "/my-project/static/js/453.290d0904.chunk.js",
+    "static/media/green.jpg": "/my-project/static/media/green.a741f388e7e1eb5dae6e.jpg",
+    "static/media/indiagate.jpg": "/my-project/static/media/indiagate.2d5c0913e2dc174eed31.jpg",
+    "static/media/amber.jpg": "/my-project/static/media/amber.c30fe56b7cd044ebada1.jpg",
+    "static/media/hms.jpg": "/my-project/static/media/hms.bc5f66a26a399f9b2423.jpg",
+    "static/media/beach.jpg": "/my-project/static/media/beach.2dd30813357fa3019a3c.jpg",
+    "static/media/jaipur.jpg": "/my-project/static/media/jaipur.8284bd2be000e0217912.jpg",
+    "static/media/shimla.jpg": "/my-project/static/media/shimla.d587d33c0d79f5a433b5.jpg",
+    "static/media/girl.jpg": "/my-project/static/media/girl.374cc001386dded012d7.jpg",
+    "static/media/agra.jpg": "/my-project/static/media/agra.9fc9887a1cf1474def0d.jpg",
+    "static/media/goa.jpg": "/my-project/static/media/goa.5096abcd92ab7f1ea3ff.jpg",
+    "static/media/delhi.jpg": "/my-project/static/media/delhi.259a1adc0dd496da7b5c.jpg",
+    "static/media/mumbai.jpg": "/my-project/static/media/mumbai.f9ad573b6ddd49e0ddaf.jpg",
+    "static/media/tajmahal.jpg": "/my-project/static/media/tajmahal.16a30b58ebd90f0dc97f.jpg",
+    "static/media/rishikesh.jpg": "/my-project/static/media/rishikesh.13ee92822edbf1217b75.jpg",
+    "static/media/hawamahal.jpg": "/my-project/static/media/hawamahal.aaf848decc574a9ec0bb.jpg",
+    "static/media/redfort.jpg": "/my-project/static/media/redfort.02ec502329b14cafeced.jpg",
+    "static/media/chennai.jpg": "/my-project/static/media/chennai.343f4ec6ad20c307f0b3.jpg",
+    "static/media/bengaluru.jpg": "/my-project/static/media/bengaluru.f1a41885074ffac08533.jpg",
+    "static/media/manali.jpg": "/my-project/static/media/manali.1f2738fe22153eb4e76e.jpg",
+    "static/media/kolkata.jpg": "/my-project/static/media/kolkata.a20102579e63581cb54c.jpg",
+    "static/media/logo.PNG": "/my-project/static/media/logo.d976ffdb97cc9d659413.PNG",
+    "index.html": "/my-project/index.html",
+    "main.4a9a9d2e.css.map": "/my-project/static/css/main.4a9a9d2e.css.map",
+    "main.cee79f26.js.map": "/my-project/static/js/main.cee79f26.js.map",
+    "453.290d0904.chunk.js.map": "/my-project/static/js/453.290d0904.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a9a9d2e.css",
+    "static/js/main.cee79f26.js"
+  ]
+}
